@@ -1,0 +1,14 @@
+# 数据集（太大了，自己下载）
+data/
+
+# 生成的标签（可以重新生成）
+delta_p.npy
+
+# Python 缓存垃圾
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
